@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsp stat="ok">
+<list>
+<widget id="Emby">
+<title>emby</title>
+<compression type="zip" size="919000"/>
+<description/>
+<download>http://192.168.1.31/Widget/Emby_1.0.6_Europe_20160120.zip</download>
+</widget>
+</list>
+</rsp>

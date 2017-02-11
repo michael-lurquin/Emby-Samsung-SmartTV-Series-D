@@ -6,4 +6,4 @@ Put the **widgetlist.xml** file and the **Widget** folder at the root of your we
 
 ## Installation via USB
 
-I created a **MediaBrowser 3** folder in the root of the USB drive. Then unzipped **Emby_1.0.6_Europe_20160120.zip** file into this folder.
+Create a **MediaBrowser 3** folder at the root of the USB key. Then uncompressed the **Emby_1.0.6_Europe_20160120.zip** file that is located in the **Widget** folder in your folder **MediaBrowser 3**
